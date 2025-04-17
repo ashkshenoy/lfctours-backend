@@ -1,1 +1,0 @@
-package com.okta.developer.lfcfanclub.model;
